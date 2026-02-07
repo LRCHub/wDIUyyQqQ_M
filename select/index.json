@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "イマジネーション",
+  "base_artist": "SPYAIR",
+  "createdAt": "2026-02-07T13:40:09.569032Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TBS: イマジネーション 〜蒼天聖戦 魔科学研究所〜",
+      "artist": "THE PRIMALS",
+      "has_synced": false,
+      "path": "select/01_TBS__イマジネーション_〜蒼天聖戦_魔科学研究所〜_THE_PRIMALS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イマジネーション 〜蒼天聖戦 魔科学研究所〜",
+      "artist": "THE PRIMALS",
+      "has_synced": false,
+      "path": "select/02_イマジネーション_〜蒼天聖戦_魔科学研究所〜_THE_PRIMALS.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "イマジネーション",
+      "artist": "Nae",
+      "has_synced": false,
+      "path": "select/03_イマジネーション_Nae.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "イマジネーション",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/04_イマジネーション_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "イマジネーション",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/05_イマジネーション_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "イマジネーション",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/06_イマジネーション_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "イマジネーション - New Version -",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/07_イマジネーション_-_New_Version_-_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LOVE イマジネーション",
+      "artist": "ICHIKO",
+      "has_synced": false,
+      "path": "select/08_LOVE_イマジネーション_ICHIKO.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LOVE イマジネーション (Off Vocal)",
+      "artist": "ICHIKO",
+      "has_synced": false,
+      "path": "select/09_LOVE_イマジネーション_(Off_Vocal)_ICHIKO.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "イマジネーション - New Version - - Imagination - New Version -",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/10_イマジネーション_-_New_Version_-_-_Imagination_-_New_Version_-_SPYAIR.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "イマジネーション - Imagination",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/11_イマジネーション_-_Imagination_SPYAIR.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "イマジネーション - (New Version) - Imagination (New Version)",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/12_イマジネーション_-_(New_Version)_-_Imagination_(New_Version)_SPYAIR.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "イマジネーション (Live at FUJI-Q HIGHLAND 2015.8.8)",
+      "artist": "SPYAIR",
+      "has_synced": true,
+      "path": "select/13_イマジネーション_(Live_at_FUJI-Q_HIGHLAND_2015.8.8)_SPYAIR.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イマジネーション",
+      "artist": "SPYAIR",
+      "has_synced": false,
+      "path": "select/pl_01_イマジネーション_SPYAIR.txt"
+    }
+  ]
+}
